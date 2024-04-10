@@ -1,0 +1,19 @@
+{
+  "name": "central-bank",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/RafaSouzaReis/Bot-Economy.git",
+  "author": "Rafael Augusto De Souza Reis <Rafael.as.reis121@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  },
+  "scripts": {
+    "start": "ts-node ./src/index.js",
+    "dev": "ts-node -r tsconfig-path/register ./src/index.ts"
+  }
+}
