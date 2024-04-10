@@ -6,7 +6,8 @@
   "author": "Rafael Augusto De Souza Reis <Rafael.as.reis121@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "discord.js": "^14.14.1"
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
   },
   "devDependencies": {
     "ts-node": "^10.9.2",
